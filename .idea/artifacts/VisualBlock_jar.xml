@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VisualBlock:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VisualBlock_jar</output-path>
+    <root id="archive" name="VisualBlock.jar">
+      <element id="module-output" name="VisualBlock" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/Paper/Libraries/JSAP-2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/Paper/Libraries/gephi-toolkit-0.9.2-all.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
